@@ -1,0 +1,4 @@
+Logger Initialized.
+[2025-06-19 22:48:53][LOG]: Application has started.
+[2025-06-19 22:48:53][LOG]: Logger reused for another message.
+Both logger references point to the same instance.
